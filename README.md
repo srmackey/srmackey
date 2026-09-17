@@ -2,9 +2,11 @@
 
 I build context engineering systems and agentic workflows so AI-assisted development holds up on real multi-repo systems.
 
-**[ContextForge](https://github.com/srmackey/context-forge)** is a local MCP server for persistent project memory. Capture context once, compose it per-task. Wired for Cursor. Daily driver on production work.
+**[ContextForge](https://github.com/srmackey/context-forge)** is a local MCP server for persistent cross-platform agent memory. Capture session signal for durable agent memory.
 
 **[Insitu](https://github.com/srmackey/insitu)** keeps agent guidance in one place as reusable stanzas and composes the right set per project or role.
+
+**[DevSpan](https://github.com/srmackey/dev-span)** is a local MCP server for persistent project memory. Capture context once, compose it per-task. Wired for Cursor. Daily driver on production work.
 
 Enterprise full-stack underneath (integrations, migrations, APIs). Denver area. [LinkedIn](https://www.linkedin.com/in/scottrmackey)
 
