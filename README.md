@@ -2,7 +2,7 @@
 
 I build context engineering systems and agentic workflows so AI-assisted development holds up on real multi-repo systems.
 
-**[ContextForge](https://github.com/srmackey/context-forge)** is a local MCP server for persistent cross-platform agent memory. Capture session signal for durable agent memory.
+**[ContextForge](https://github.com/srmackey/context-forge)** gives an AI client a local memory of one workspace: working files and sitting notes, stored as markdown. Capture session signal for durable agent memory.
 
 **[Insitu](https://github.com/srmackey/insitu)** keeps agent guidance in one place as reusable stanzas and composes the right set per project or role.
 
