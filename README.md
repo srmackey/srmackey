@@ -10,4 +10,4 @@ I build context engineering systems and agentic workflows so AI-assisted develop
 
 Enterprise full-stack underneath (integrations, migrations, APIs). Denver area. [LinkedIn](https://www.linkedin.com/in/scottrmackey)
 
-If you try either of these, or you have notes on the design, I'd like to hear them. Open an issue, or find me on LinkedIn.
+If you try any of these, or you have notes on the design, I'd like to hear them. Open an issue, or find me on LinkedIn.
