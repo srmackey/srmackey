@@ -1,6 +1,6 @@
 # Scott Mackey
 
-I build a multi-purpose agentic system so AI has durable context across different kinds of work.
+Building multi-purpose agentic systems so AI has durable context across different kinds of work.
 
 **[Context Forge](https://github.com/srmackey/context-forge)** gives an AI client a local memory of one workspace: working files and sitting notes, stored as markdown.
 
