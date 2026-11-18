@@ -6,6 +6,8 @@ Building multi-purpose agentic systems so AI has durable context across differen
 
 **[Domain Prime](https://github.com/srmackey/domainprime)** organizes your AI projects as a tree: one install gives every project its own rules, its own memory, and a way to reach the others, in every AI client you use, all running on your machine. I use it every day.
 
+See it in motion: a short animated walkthrough [here](https://realscottmackey.com/domainprime).
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srmackey/domainprime/main/docs/system-dark.svg">
   <img alt="Domain Prime: a tree of projects. Every chair can use Insitu and Context Forge; Envoy carries mail and status up through each nexus." src="https://raw.githubusercontent.com/srmackey/domainprime/main/docs/system-light.svg" width="760">
