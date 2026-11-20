@@ -1,6 +1,6 @@
 # Scott Mackey
 
-Building multi-purpose agentic systems so AI has durable context across different kinds of work.
+I build open-source developer tooling and the systems AI agents work inside, plus an evaluated support agent on Amazon Bedrock.
 
 ## Domain Prime
 
@@ -25,6 +25,10 @@ Local-first throughout: markdown on disk, no network calls, no credentials.
 ## DevSpan
 
 **[DevSpan](https://github.com/srmackey/dev-span)** gives an AI client durable engineering context across repositories: components, repos, tasks, and governance, stored as markdown and composed per task. It is a separate system, built for AI-assisted software development.
+
+## Order support agent
+
+**[Order support agent](https://github.com/srmackey/order-support)** reads a customer message for a fictional outdoor shop and chooses the next step: a sourced answer, a tool call, a refusal, or an escalation. It runs on Amazon Bedrock AgentCore with Strands Agents and Claude, and it is evaluated against a frozen case set and a held-out set, with code checks on its tool calls and citations and a second model judging each reply.
 
 ## About
 
